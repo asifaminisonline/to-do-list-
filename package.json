@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piero-vic/to-do-list.git"
+    "url": "git+https://github.com/asifaminisonline/to-do-list-.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piero-vic/to-do-list/issues"
+    "url": "https://github.com/asifaminisonline/to-do-list/issues"
   },
-  "homepage": "https://github.com/piero-vic/to-do-list#readme",
+  "homepage": "https://github.com/asifaminisonline/to-do-list#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.0",
