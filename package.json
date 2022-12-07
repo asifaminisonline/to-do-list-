@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/asifaminisonline/to-do-list/issues"
+    "url": "https://github.com/asifaminisonline/to-do-list-/issues"
   },
-  "homepage": "https://github.com/asifaminisonline/to-do-list#readme",
+  "homepage": "https://github.com/asifaminisonline/to-do-list-#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.0",
